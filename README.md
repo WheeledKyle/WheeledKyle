@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @WheeledKyle
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋🏻 Hello, I’m @WheeledKyle
+- 👀 I’m interested in Minecraft
 - 📫 How to reach me ...
 
-<!---
-WheeledKyle/WheeledKyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->https://discord.gg/Upp8CNUsMu
+https://discord.gg/Upp8CNUsMu
+- ▶ Subscribe At My YT @WheeledKyle
+- 亗 Follow My TikTok! You'reWheeledKyle
